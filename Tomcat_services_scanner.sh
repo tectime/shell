@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#This script looks for and lists all the services already installed and running on Tomcat through a list of hosts.
 # Script:           Tomcat Scanner
 # Author:           Robson Messias
 # Created on:       30/12/2019
