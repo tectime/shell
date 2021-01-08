@@ -1,5 +1,6 @@
 #!/bin/bash
-#Stanleybet SQLLoops Update tool 
+#SQLLoops Update tool
+#This script automates the application of SQL patches and scripts in active instances to Postgres
 #Created by Robson Messias
 #Last update date: 27/11/2019
 
